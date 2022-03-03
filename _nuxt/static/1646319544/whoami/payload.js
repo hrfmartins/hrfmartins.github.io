@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/whoami", {data:[{}],fetch:{},mutations:void 0});
